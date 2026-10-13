@@ -1,0 +1,30 @@
+# Core dependencies from app.py
+requests
+google-auth-oauthlib
+google-auth-httplib2
+google-api-python-client
+pyttsx3
+SpeechRecognition
+sounddevice
+soundfile
+scipy
+numpy
+gspread
+google-auth
+
+# Web server dependencies
+Flask==3.0.0
+Flask-CORS==4.0.0
+pymongo
+flask-bcrypt
+twilio
+tzdata
+flask-sock
+openai
+python-dotenv
+websockets>=12.0
+structlog>=24.0.0
+colorama>=0.4.6
+
+# Multilingual support
+langdetect>=1.0.9
